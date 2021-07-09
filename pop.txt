@@ -1,3 +1,6 @@
+new entry to this file
+
+
 <<<<<<< HEAD
  hese is test file
 =======
