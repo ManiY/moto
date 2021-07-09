@@ -1,6 +1,15 @@
+<<<<<<< HEAD
  hese is test file
+=======
+ these is test file
+
+>>>>>>> ea29df4272686161ef04473499ac3eaec86e66b1
 
 This is another line added from develo br
 =======
 This is new line added in master
+<<<<<<< HEAD
 >>>>>>> master
+=======
+
+>>>>>>> ea29df4272686161ef04473499ac3eaec86e66b1
