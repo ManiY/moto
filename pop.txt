@@ -1,7 +1,23 @@
+new entry to this file
+
+
+<<<<<<< HEAD
  hese is test file
+=======
+ these is test file
+
+>>>>>>> b9818dd30007eef25085dcd70ec723680484f8f9
 
 This is another line added from develo br
 
 This is new line added in master
+<<<<<<< HEAD
 
 ******888second time coometn**********
+=======
+<<<<<<< HEAD
+>>>>>>> master
+=======
+
+>>>>>>> b9818dd30007eef25085dcd70ec723680484f8f9
+>>>>>>> develop
